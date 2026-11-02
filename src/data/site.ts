@@ -13,5 +13,5 @@ export const siteConfig = {
     "以下价格均为公开资料整理的大致区间，会随套餐、汇率与促销变动；下单前请以官方页面为准。本站不提供交易与收款。",
   disclaimerEn:
     "Prices are approximate ranges from public sources and change with plans, FX and promos. Always verify on the official site. This site does not process payments.",
-  lastDataRefresh: "2026-10-30",
+  lastDataRefresh: "2026-11-02",
 };
